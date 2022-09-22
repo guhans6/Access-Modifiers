@@ -9,5 +9,5 @@ public  class Access1
     {
         System.out.println("Protected method");
     }
-    
+    //ss
 }
