@@ -9,5 +9,9 @@ public  class Access1
     {
         System.out.println("Protected method");
     }
-    //ss
+
+    public final void display(String str)
+    {
+        System.out.println("Final" + str);
+    }
 }
